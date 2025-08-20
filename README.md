@@ -56,11 +56,11 @@ Using this dataset and statistical fitting, the project:
 ---
 
 ## 📈 Results
-- Best-fit **Hubble constant (H₀): ~70 km/s/Mpc**  
-- Estimated **age of the Universe: ~13.7 billion years**  
+- Best-fit **Hubble constant (H₀): ~72.97 ± 0.17 km/s/Mpc**  
+- Estimated **age of the Universe: ~12.36 billion years**  
 - Residual analysis confirmed consistency with the **ΛCDM cosmological model**.  
 
-> Results closely align with **Planck 2018 data** and **Riess et al. (2021) SH0ES measurements**.  
+> Results differ from **Planck 2018 data** and **Riess et al. (2021) SH0ES measurements** because of **Hubble Tension**.  
 
 ---
 
